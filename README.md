@@ -1,2 +1,2 @@
 # php-sqlrelay1.3-oracle
-Docker image about sqlrelay connect to oracle using PHP 7.2.6 base on centOS
+This is a docker image running sqlrelay connect to oracle using PHP 7.2.6 base on centOS
